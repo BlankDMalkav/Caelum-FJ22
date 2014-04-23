@@ -1,0 +1,5 @@
+package br.caelum.argentum.reader;
+
+public class LeitorXML {
+
+}

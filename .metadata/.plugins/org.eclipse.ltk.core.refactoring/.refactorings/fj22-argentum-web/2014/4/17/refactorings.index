@@ -1,0 +1,11 @@
+1398177261588	Move packages
+1398177374917	Delete element
+1398177421921	Delete element
+1398177610147	Delete element
+1398196077824	Rename type 'Candlestick'
+1398257366096	Encapsulate field 'modeloGrafico'
+1398257687412	Delete element
+1398257722589	Rename type 'GeradorModelGrafico'
+1398261401527	Extract interface 'Indicador'
+1398261791329	Change method 'plotaMediaMovelSimples'
+1398278515049	Extract method 'geraGrafico'

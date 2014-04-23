@@ -1,0 +1,22 @@
+package br.caelum.argentum.reader;
+
+import static org.junit.Assert.*;
+
+import java.io.InputStream;
+import java.util.List;
+
+import org.junit.Test;
+
+import com.thoughtworks.xstream.XStream;
+import com.thoughtworks.xstream.io.xml.DomDriver;
+
+import br.caelum.argentum.modelo.Nogociacao;
+import br.com.caelum.argentum.modelo.NegociacaoTest;
+
+public class LeitorXMLTest {
+	public List<NegociacaoTest> carrega(InputStream inputStream) {
+		XStream stream = new XStream(new DomDriver());
+		stream.alias("negociacao", Nogociacao.class);
+		return (List<Negociacao>) stream.fromXML(inputStream);
+	}
+}

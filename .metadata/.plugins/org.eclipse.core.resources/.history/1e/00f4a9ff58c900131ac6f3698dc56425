@@ -1,0 +1,5 @@
+package br.caelum.argentum.modelo;
+
+public class Nogociacao {
+
+}

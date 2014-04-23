@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="br.caelum.argentum.modelo.CandlestickFactory"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
+<fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.DomDriver"/>
+<fullyQualifiedTypeName name="br.caelum.argentum.modelo.Candlestick"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="br.com.caelum.argentum.bean.ArgentumBean"/>
+<fullyQualifiedTypeName name="br.com.caelum.argentum.ws.ClienteWebService"/>
+<fullyQualifiedTypeName name="br.com.caelum.argentum.modelo.Negociacao"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ViewScoped"/>
+<fullyQualifiedTypeName name="br.com.caelum.argentum.modelo.SerieTemporal"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="br.com.caelum.argentum.indicadores.MediaMovelSimples"/>
+<fullyQualifiedTypeName name="br.com.caelum.argentum.indicadores.MediaMovelPonderada"/>
+<fullyQualifiedTypeName name="br.com.caelum.argentum.indicadores.IndicadorAbertuta"/>
+<fullyQualifiedTypeName name="br.com.caelum.argentum.indicadores.IndicadorFechamento"/>
+</qualifiedTypeNameHistroy>
